@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Histoire de la Guerre du Vietnam</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Histoire de la Guerre du Vietnam</h1>
+        <nav>
+            <ul>
+                <li><a href="#introduction">Introduction</a></li>
+                <li><a href="#contexte">Contexte Historique</a></li>
+                <li><a href="#chronologie">Chronologie des Événements</a></li>
+                <li><a href="#implications">Implications Internationales</a></li>
+                <li><a href="#consequences">Conséquences</a></li>
+                <li><a href="#references">Références</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>La guerre du Vietnam, également connue sous le nom de deuxième guerre d'Indochine, a opposé de 1955 à 1975 la République démocratique du Vietnam (Nord-Vietnam) et la République du Vietnam (Sud-Vietnam). Cette guerre a aussi impliqué les États-Unis et d'autres nations alliées.</p>
+        </section>
+        <section id="contexte">
+            <h2>Contexte Historique</h2>
+            <p>Le Vietnam, autrefois colonie française, a été divisé en deux parties après la défaite française à Dien Bien Phu en 1954. Le Nord était soutenu par l'URSS et la Chine, tandis que le Sud était soutenu par les États-Unis et d'autres pays occidentaux.</p>
+        </section>
+        <section id="chronologie">
+            <h2>Chronologie des Événements</h2>
+            <p>1954 : Les Accords de Genève divisent le Vietnam en deux.</p>
+            <p>1964 : Incident du golfe du Tonkin et début de l'engagement militaire américain.</p>
+            <p>1968 : Offensive du Têt.</p>
+            <p>1973 : Accords de paix de Paris et retrait des troupes américaines.</p>
+            <p>1975 : Chute de Saigon et fin de la guerre.</p>
+        </section>
+        <section id="implications">
+            <h2>Implications Internationales</h2>
+            <p>La guerre du Vietnam a eu des répercussions mondiales, influençant la politique étrangère américaine, provoquant des mouvements de protestation dans de nombreux pays et ayant des impacts économiques et sociaux significatifs.</p>
+        </section>
+        <section id="consequences">
+            <h2>Conséquences</h2>
+            <p>Les conséquences de la guerre du Vietnam ont été vastes et profondes, touchant à la fois le Vietnam et les États-Unis. Les pertes humaines, les traumatismes psychologiques et les impacts économiques sont parmi les conséquences les plus notables.</p>
+        </section>
+        <section id="references">
+            <h2>Références</h2>
+            <ul>
+                <li><a href="https://fr.wikipedia.org/wiki/Guerre_du_Vi%C3%AAt_Nam" target="_blank">Wikipedia - Guerre du Viêt Nam</a></li>
+                <li><a href="https://www.history.com/topics/vietnam-war/vietnam-war-history" target="_blank">History.com - Vietnam War</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Histoire de la Guerre du Vietnam</p>
+    </footer>
+</body>
+</html>
